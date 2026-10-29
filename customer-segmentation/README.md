@@ -1,9 +1,5 @@
 # Customer Segmentation of Retail Customers Using Clustering Techniques
 
-ML (BIC703) Mini Project - East West Institute of Technology
-
-**Team:** Chinmai M (1EW23IC013), Dharmendar Choudhari (1EW23IC014), Harshal S Govi (1EW23IC015), Vikash Kumar (1EW23IC049)
-
 ## Problem
 Retail businesses treat all customers alike. This project groups customers into behaviour-based
 segments using **RFM analysis** (Recency, Frequency, Monetary) and unsupervised clustering, and
