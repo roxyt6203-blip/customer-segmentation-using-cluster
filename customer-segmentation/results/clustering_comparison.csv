@@ -1,0 +1,5 @@
+Algorithm,Clusters,Noise points,Silhouette,Davies-Bouldin,Calinski-Harabasz
+K-Means (K=3),3,0,0.3584,0.975,62.4
+"Agglomerative (Ward, K=3)",3,0,0.3447,1.0186,57.8
+Gaussian Mixture (K=3),3,0,0.1374,2.9843,22.1
+DBSCAN (eps=0.8),3,11,0.0985,3.9178,14.4

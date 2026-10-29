@@ -1,0 +1,5 @@
+Model,CV_Acc_Before,CV_Acc_After,Test_Acc,Macro_F1,Best_Params
+Logistic Regression,0.99,0.99,1.0,1.0,"{'C': 0.1, 'solver': 'lbfgs'}"
+KNN,0.93,0.94,0.95,0.9521,"{'metric': 'euclidean', 'n_neighbors': 11, 'weights': 'distance'}"
+Decision Tree,0.91,0.91,0.95,0.9521,"{'criterion': 'gini', 'max_depth': None, 'min_samples_split': 2}"
+Random Forest,0.97,0.97,0.95,0.9521,"{'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}"

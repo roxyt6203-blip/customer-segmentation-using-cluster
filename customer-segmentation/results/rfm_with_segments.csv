@@ -1,0 +1,101 @@
+Customer_ID,Recency,Frequency,Monetary,Cluster,Segment
+Customer-001,1,322,784745000.0,2,High-Value Loyal
+Customer-002,1,262,679040500.0,0,Active Customers
+Customer-003,2,287,736283000.0,0,Active Customers
+Customer-004,1,318,689126000.0,0,Active Customers
+Customer-005,1,311,765826500.0,2,High-Value Loyal
+Customer-006,1,304,768630500.0,2,High-Value Loyal
+Customer-007,1,277,721813000.0,0,Active Customers
+Customer-008,1,289,666560500.0,0,Active Customers
+Customer-009,1,294,698389000.0,0,Active Customers
+Customer-010,1,294,724276500.0,0,Active Customers
+Customer-011,1,284,738539000.0,0,Active Customers
+Customer-012,1,307,703540000.0,0,Active Customers
+Customer-013,1,314,712723500.0,0,Active Customers
+Customer-014,1,304,766733500.0,2,High-Value Loyal
+Customer-015,1,297,825326000.0,2,High-Value Loyal
+Customer-016,1,344,788311000.0,2,High-Value Loyal
+Customer-017,3,269,592102000.0,0,Active Customers
+Customer-018,32,294,668579000.0,0,Active Customers
+Customer-019,32,300,725428000.0,0,Active Customers
+Customer-020,32,320,820514500.0,2,High-Value Loyal
+Customer-021,32,314,818506000.0,2,High-Value Loyal
+Customer-022,32,276,647272500.0,0,Active Customers
+Customer-023,32,310,751001500.0,2,High-Value Loyal
+Customer-024,32,285,683002500.0,0,Active Customers
+Customer-025,32,311,758304500.0,2,High-Value Loyal
+Customer-026,33,305,856081000.0,2,High-Value Loyal
+Customer-027,32,334,790835500.0,2,High-Value Loyal
+Customer-028,3,319,791315500.0,2,High-Value Loyal
+Customer-029,1,294,758721000.0,0,Active Customers
+Customer-030,1,308,686414000.0,0,Active Customers
+Customer-031,1,309,842388500.0,2,High-Value Loyal
+Customer-032,82,305,716625000.0,1,At-Risk / Dormant
+Customer-033,82,293,737438500.0,1,At-Risk / Dormant
+Customer-034,82,294,700181000.0,1,At-Risk / Dormant
+Customer-035,82,314,826603000.0,2,High-Value Loyal
+Customer-036,82,272,586206500.0,0,Active Customers
+Customer-037,82,320,727632500.0,1,At-Risk / Dormant
+Customer-038,83,304,756574000.0,1,At-Risk / Dormant
+Customer-039,82,306,780629500.0,1,At-Risk / Dormant
+Customer-040,82,315,826222000.0,2,High-Value Loyal
+Customer-041,82,311,805751500.0,2,High-Value Loyal
+Customer-042,82,276,690494500.0,0,Active Customers
+Customer-043,82,282,668730000.0,0,Active Customers
+Customer-044,82,299,739414500.0,1,At-Risk / Dormant
+Customer-045,82,298,731182500.0,1,At-Risk / Dormant
+Customer-046,82,289,708321500.0,1,At-Risk / Dormant
+Customer-047,82,313,707659000.0,1,At-Risk / Dormant
+Customer-048,1,317,739892500.0,2,High-Value Loyal
+Customer-049,1,304,705240000.0,0,Active Customers
+Customer-050,1,272,648161000.0,0,Active Customers
+Customer-051,1,282,732487500.0,0,Active Customers
+Customer-052,1,312,753202000.0,2,High-Value Loyal
+Customer-053,1,314,722258500.0,2,High-Value Loyal
+Customer-054,3,269,686652500.0,0,Active Customers
+Customer-055,132,312,787251000.0,1,At-Risk / Dormant
+Customer-056,132,277,656695000.0,1,At-Risk / Dormant
+Customer-057,132,274,738954500.0,1,At-Risk / Dormant
+Customer-058,132,301,688125000.0,1,At-Risk / Dormant
+Customer-059,132,315,826404000.0,1,At-Risk / Dormant
+Customer-060,132,324,880893000.0,2,High-Value Loyal
+Customer-061,132,292,647109500.0,1,At-Risk / Dormant
+Customer-062,132,308,760348000.0,1,At-Risk / Dormant
+Customer-063,132,318,788125000.0,1,At-Risk / Dormant
+Customer-064,132,326,829782000.0,2,High-Value Loyal
+Customer-065,132,313,747552500.0,1,At-Risk / Dormant
+Customer-066,132,295,784727000.0,1,At-Risk / Dormant
+Customer-067,132,289,756061500.0,1,At-Risk / Dormant
+Customer-068,132,289,684316500.0,1,At-Risk / Dormant
+Customer-069,132,309,821228500.0,1,At-Risk / Dormant
+Customer-070,132,280,685249000.0,1,At-Risk / Dormant
+Customer-071,132,283,690999000.0,1,At-Risk / Dormant
+Customer-072,132,291,767018500.0,1,At-Risk / Dormant
+Customer-073,132,308,705400500.0,1,At-Risk / Dormant
+Customer-074,132,292,760529500.0,1,At-Risk / Dormant
+Customer-075,132,277,759615000.0,1,At-Risk / Dormant
+Customer-076,132,306,755681500.0,1,At-Risk / Dormant
+Customer-077,132,302,730699000.0,1,At-Risk / Dormant
+Customer-078,132,341,803428500.0,2,High-Value Loyal
+Customer-079,132,286,719473000.0,1,At-Risk / Dormant
+Customer-080,3,272,690515000.0,0,Active Customers
+Customer-081,2,305,850030000.0,2,High-Value Loyal
+Customer-082,1,294,750837500.0,0,Active Customers
+Customer-083,1,300,812366000.0,2,High-Value Loyal
+Customer-084,1,270,725595000.0,0,Active Customers
+Customer-085,1,315,667549500.0,0,Active Customers
+Customer-086,1,282,607141000.0,0,Active Customers
+Customer-087,1,318,794238000.0,2,High-Value Loyal
+Customer-088,1,315,787382500.0,2,High-Value Loyal
+Customer-089,1,286,730185500.0,0,Active Customers
+Customer-090,1,290,690994500.0,0,Active Customers
+Customer-091,1,296,735174500.0,0,Active Customers
+Customer-092,4,291,712395500.0,0,Active Customers
+Customer-093,1,330,805415000.0,2,High-Value Loyal
+Customer-094,1,329,850629000.0,2,High-Value Loyal
+Customer-095,2,282,686152500.0,0,Active Customers
+Customer-096,1,313,829229500.0,2,High-Value Loyal
+Customer-097,1,295,735736000.0,0,Active Customers
+Customer-098,1,305,715626000.0,0,Active Customers
+Customer-099,2,295,700938500.0,0,Active Customers
+Customer-100,3,292,741243000.0,0,Active Customers
